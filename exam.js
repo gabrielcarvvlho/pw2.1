@@ -59,6 +59,6 @@ console.log("menores notas:", prova.mini());
 
 console.log("media:", prova.avg());
 
-console.log("notas menores que 5:", prova.lt(5));
+console.log("notas menores que 7:", prova.lt(7));
 
-console.log("notas maiores que 5:", prova.gt(5));
+console.log("notas maiores que 7:", prova.gt(7));
