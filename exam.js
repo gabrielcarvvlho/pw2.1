@@ -44,7 +44,7 @@ class Exams {
   }
 }
 
-const prova = new Exams(["a", "b", "a", "c", "d"], [1, 2, 3, 4, 5]);
+const prova = new Exams(["a", "b", "a", "c", "d"], [2, 2, 2, 2, 2]);
 
 prova.add(["d", "b", "a", "b", "b"]);
 prova.add(["a", "b", "a", "a", "d"]);
